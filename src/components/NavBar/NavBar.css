@@ -1,0 +1,9 @@
+.navbar {
+  color: #fff;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  padding: 2rem;
+}
